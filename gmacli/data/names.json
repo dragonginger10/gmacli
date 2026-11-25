@@ -1,0 +1,23 @@
+{
+  "male": [
+    "Aldric", "Bram", "Cedric", "Dorian", "Edmund", "Faolan", "Gareth", "Halvard", "Ivor", "Jareth",
+    "Kael", "Leoric", "Magnus", "Niall", "Osric", "Percival", "Quillon", "Roderick", "Stellan", "Tormund",
+    "Ulric", "Varek", "Wystan", "Xander", "Yorick", "Zoran", "Alaric", "Benedikt", "Corwin", "Darian",
+    "Eamon", "Fenwick", "Gideon", "Hadrian", "Ingram", "Joram", "Konrad", "Lucan", "Marcus", "Nestor",
+    "Orrin", "Piers", "Ragnar", "Silas", "Thaddeus", "Uther", "Valen", "Willem", "Leofric", "Caspian"
+  ],
+  "female": [
+    "Adela", "Brienne", "Celestine", "Delphine", "Elowen", "Freya", "Gwendolyn", "Helena", "Isolde", "Jessamy",
+    "Katarina", "Lysandra", "Maren", "Nerissa", "Ophelia", "Petra", "Rowena", "Seraphine", "Thea", "Ursula",
+    "Vivienne", "Wren", "Ysolde", "Zelda", "Astrid", "Bryony", "Cordelia", "Dagny", "Eira", "Fiora",
+    "Greta", "Hilde", "Ingrid", "Juniper", "Kestrel", "Liesel", "Morwenna", "Nadia", "Odessa", "Primrose",
+    "Rosalind", "Sigrid", "Tamsin", "Undine", "Verena", "Winifred", "Yara", "Zinnia", "Imogen", "Marisol"
+  ],
+  "neutral": [
+    "Ash", "Briar", "Cael", "Dale", "Ember", "Fen", "Gray", "Haven", "Indigo", "Jory",
+    "Kit", "Lark", "Morgan", "North", "Onyx", "Perrin", "Quinn", "Rain", "Sage", "Tarn",
+    "Vale", "Winter", "Arden", "Bellamy", "Corin", "Darcy", "Ellis", "Flynn", "Glen", "Harper",
+    "Ira", "Jules", "Kai", "Linden", "Marlowe", "Nova", "Oakley", "Phoenix", "Reed", "Rowan",
+    "Sable", "Tobin", "Umber", "Vesper", "Wynn", "Yael", "Zephyr", "Avery", "Emrys", "Shay"
+  ]
+}

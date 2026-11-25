@@ -1,0 +1,410 @@
+[
+  {
+    "symbol": "ᚠ",
+    "name": "Fehu",
+    "transliteration": "f",
+    "interpretation": "Wealth represents resources, opportunity, and the responsibility of ownership. Consider what you possess, what you need, and what you can share. Prosperity grows through thoughtful stewardship rather than endless accumulation.",
+    "art": [
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⢀⣼⠟⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⢀⣴⠟⠁⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⣷⡿⠃⠀⣠⡶⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡏⠀⣠⡾⠋⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⣧⣾⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᚢ",
+    "name": "Uruz",
+    "transliteration": "u",
+    "interpretation": "Strength emerges from vitality, endurance, and untamed potential. Face the challenge directly, but temper force with awareness. Growth may require discomfort, renewed confidence, and respect for your own physical limits.",
+    "art": [
+      "⠀⠀⠀⠀⠀⠀⢸⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⢸⣿⠙⢷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠙⢷⣄⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠈⣿⡇⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᚦ",
+    "name": "Thurisaz",
+    "transliteration": "th",
+    "interpretation": "A thorn marks danger, resistance, and the need for boundaries. Pause before reacting. Powerful defenses can protect or wound. Choose deliberate action over anger when confronting a difficult, threatening situation.",
+    "art": [
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⣧⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡏⠻⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⢈⣻⡷⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⣇⣴⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᚨ",
+    "name": "Ansuz",
+    "transliteration": "a",
+    "interpretation": "Words carry insight, inspiration, and influence. Listen carefully to advice, unexpected messages, and your own questions. Clear communication can reveal a path forward, but wisdom requires understanding rather than obedience.",
+    "art": [
+      "⠀⠀⠀⠀⠀⠀⠀⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡏⠻⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⣇⠀⠈⠻⣷⡄⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠈⠻⣦⡀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠈⠻⠂⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᚱ",
+    "name": "Raidho",
+    "transliteration": "r",
+    "interpretation": "A journey brings movement, direction, and changing circumstances. Consider both your destination and the rhythm of travel. Progress depends on preparation, cooperation, and adjusting your course when the road changes.",
+    "art": [
+      "⠀⠀⠀⠀⠀⠀⠀⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠙⢷⣄⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⢀⣽⡿⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⣇⣴⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⣟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠹⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠹⣷⡀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠘⣿⡄⠀⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᚲ",
+    "name": "Kenaz",
+    "transliteration": "k",
+    "interpretation": "A torch illuminates what was hidden. Knowledge, creativity, and practiced skill offer new possibilities. Bring curiosity to the problem, remembering that useful insight must be nurtured and shared with others.",
+    "art": [
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡾⠋⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⣠⡾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⢾⣏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠙⢷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢷⣄⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᚷ",
+    "name": "Gebo",
+    "transliteration": "g",
+    "interpretation": "A gift creates connection through generosity, exchange, and mutual respect. Notice what is offered and what is expected. Healthy partnerships balance giving and receiving without turning kindness into binding obligation.",
+    "art": [
+      "⠀⠀⠀⠀⠀⢠⣦⠀⠀⠀⠀⠀⠀⣴⡄⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⢻⣧⠀⠀⠀⠀⣼⡟⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⢻⣧⠀⠀⣼⡟⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⢻⣧⣼⡟⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⣼⡟⢻⣧⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣼⡟⠀⠀⢻⣧⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⣼⡟⠀⠀⠀⠀⢻⣧⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠘⠟⠀⠀⠀⠀⠀⠀⠻⠃⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᚹ",
+    "name": "Wunjo",
+    "transliteration": "w",
+    "interpretation": "Joy grows through belonging, harmony, and shared achievement. Recognize moments of satisfaction rather than rushing past them. Celebrate companionship while remembering that lasting happiness leaves room for honesty and difference.",
+    "art": [
+      "⠀⠀⠀⠀⠀⠀⠀⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠙⢷⣄⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⢀⣽⡿⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⣇⣴⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᚺ",
+    "name": "Hagalaz",
+    "transliteration": "h",
+    "interpretation": "Hail suggests disruption that arrives beyond your control. Plans may break, exposing weaknesses or clearing space for change. Protect what matters, adapt quickly, and rebuild after the storm has passed.",
+    "art": [
+      "⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⣿⣷⣄⡀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⣿⡇⠙⠻⣦⣄⢸⣿⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠈⠛⢿⣿⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᚾ",
+    "name": "Naudhiz",
+    "transliteration": "n",
+    "interpretation": "Need reveals limits, pressure, and unfinished necessities. Distinguish genuine requirements from passing desires. Constraints can sharpen judgment and encourage ingenuity. Meet the immediate challenge with patience, discipline, and practical resourcefulness.",
+    "art": [
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⣀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠙⢿⣦⣸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠙⢻⣧⣀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡏⠻⣷⣄⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠈⠉⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᛁ",
+    "name": "Isa",
+    "transliteration": "i",
+    "interpretation": "Ice represents stillness, restraint, and delayed movement. A pause may preserve something valuable or keep you trapped. Observe carefully, conserve energy, and recognize when waiting becomes avoidance rather than wisdom.",
+    "art": [
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᛃ",
+    "name": "Jera",
+    "transliteration": "j",
+    "interpretation": "The harvest reflects cycles, patient effort, and consequences. Results arrive through sustained work rather than demands for immediate reward. Consider timing, tend what you planted, and learn from each season.",
+    "art": [
+      "⠀⠀⠀⠀⠀⠀⠀⠀⢀⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣠⣾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⢀⣴⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠈⢻⣦⠀⠀⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠙⣷⣄⠙⢿⣄⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠀⠀⠻⣷⡀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠁⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡾⠋⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠁⠀⠀⠀⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᛇ",
+    "name": "Eihwaz",
+    "transliteration": "ï",
+    "interpretation": "The yew suggests endurance, continuity, and transformation through difficult transitions. What appears to end may support another beginning. Stand steadily, examine your fears, and allow change without abandoning your foundations.",
+    "art": [
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡏⠻⣷⡄⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠈⠋⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⣠⡀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠘⢿⣦⣸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᛈ",
+    "name": "Perthro",
+    "transliteration": "p",
+    "interpretation": "Mystery, chance, and concealed possibilities surround the situation. Not every influence is visible or predictable. Explore uncertainty without demanding certainty. A revelation may reshape your understanding of choices already made.",
+    "art": [
+      "⠀⠀⠀⠀⠀⠀⠀⣿⣷⡀⠀⠀⢀⣴⠆⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡟⢿⣄⣰⡿⠃⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠈⠻⠏⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⣴⣄⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⣧⣾⠋⠹⣷⡄⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡿⠁⠀⠀⠈⠻⠆⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᛉ",
+    "name": "Algiz",
+    "transliteration": "z",
+    "interpretation": "Protection begins with awareness, boundaries, and supportive connections. Notice warning signs without surrendering to fear. Seek shelter when needed, and remember that vigilance works best alongside trust and sound judgment.",
+    "art": [
+      "⠀⠀⠀⠀⠀⢴⣄⠀⠀⢸⡇⠀⠀⣠⡦⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠈⢻⣦⠀⢸⡇⠀⣴⡟⠁⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠹⣷⣸⣧⣾⠏⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᛊ",
+    "name": "Sowilo",
+    "transliteration": "s",
+    "interpretation": "Sunlight suggests clarity, vitality, and confidence. A path becomes easier to recognize when confusion lifts. Act with purpose, celebrate progress, and avoid mistaking temporary success for permanent freedom from difficulty.",
+    "art": [
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⠟⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⠋⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⣰⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣼⣟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠈⠙⠿⣶⣄⡀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣽⡟⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⠏⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⣠⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣴⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᛏ",
+    "name": "Tiwaz",
+    "transliteration": "t",
+    "interpretation": "Courage serves justice when guided by principle rather than pride. Accept responsibility, defend what matters, and weigh necessary sacrifice. A worthy victory preserves integrity instead of merely defeating an opponent.",
+    "art": [
+      "⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣰⡿⢹⡟⢿⣆⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⢀⣾⠟⠀⢸⡇⠀⠻⣷⡀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠈⠁⠀⠀⢸⡇⠀⠀⠈⠁⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᛒ",
+    "name": "Berkano",
+    "transliteration": "b",
+    "interpretation": "Birch suggests renewal, nurturing, and gradual growth. Protect fragile beginnings and give developing ideas, relationships, or projects appropriate care. Progress may be quiet, requiring patience, warmth, and room to mature.",
+    "art": [
+      "⠀⠀⠀⠀⠀⠀⠀⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠙⢷⣄⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⢀⣽⡿⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⣇⣴⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⣿⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡏⠻⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠈⣻⣶⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡇⣠⡾⠋⠁⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᛖ",
+    "name": "Ehwaz",
+    "transliteration": "e",
+    "interpretation": "The horse suggests movement made possible through trust and partnership. Coordinate your efforts, communicate expectations, and respect another perspective. Advancement depends less on dominance than on reliable cooperation and balance.",
+    "art": [
+      "⠀⠀⠀⠀⠀⢸⣷⡄⠀⠀⠀⠀⢠⣾⡇⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⢸⣿⢿⣆⠀⠀⣰⡿⣿⡇⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⢸⣿⠀⠻⣧⣼⠟⠀⣿⡇⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⢸⣿⠀⠀⠙⠋⠀⠀⣿⡇⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⢸⡿⠀⠀⠀⠀⠀⠀⢿⡇⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᛗ",
+    "name": "Mannaz",
+    "transliteration": "m",
+    "interpretation": "Humanity reflects identity, community, and shared limitations. Understand yourself through relationships without losing independence. Ask for help, offer understanding, and remember that individual choices shape the wider world around you.",
+    "art": [
+      "⠀⠀⠀⠀⠀⢸⣿⣄⠀⠀⠀⠀⣠⣿⡇⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⢸⣿⠙⢿⣦⣴⡿⠋⣿⡇⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⢸⣿⢀⣴⡿⢿⣦⡀⣿⡇⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⢸⣿⡿⠋⠀⠀⠙⢿⣿⡇⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⢸⡿⠀⠀⠀⠀⠀⠀⢿⡇⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᛚ",
+    "name": "Laguz",
+    "transliteration": "l",
+    "interpretation": "Water suggests emotion, intuition, and shifting currents. Attend to feelings without allowing them to replace judgment. Move with changing circumstances while keeping direction, and acknowledge what lies beneath the surface.",
+    "art": [
+      "⠀⠀⠀⠀⠀⠀⠀⢰⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⢸⣿⠙⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀⠈⠻⣦⡀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᛜ",
+    "name": "Ingwaz",
+    "transliteration": "ng",
+    "interpretation": "A seed holds potential before visible growth. Gather energy, protect your developing purpose, and allow preparation to finish. Completion of one stage can make space for a promising new beginning.",
+    "art": [
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⣴⡟⢻⣦⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⢀⣾⠏⠀⠀⠹⣷⡀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠈⢿⣆⠀⠀⣰⡿⠁⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠻⣧⣼⠟⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᛞ",
+    "name": "Dagaz",
+    "transliteration": "d",
+    "interpretation": "Dawn marks a turning point where a different perspective becomes possible. Old oppositions may reveal unexpected connections. Welcome clarity, act on emerging possibilities, and recognize the transition already taking shape.",
+    "art": [
+      "⠀⠀⠀⠀⠀⣿⣧⠀⠀⠀⠀⠀⠀⣼⣿⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⣿⣿⣧⠀⠀⠀⠀⣼⣿⣿⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⣿⡇⢻⣧⠀⠀⣼⡟⢸⣿⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⣿⡇⠀⢻⣧⣼⡟⠀⢸⣿⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⣿⡇⠀⠀⣿⣿⠀⠀⢸⣿⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⣿⡇⠀⣼⡟⢻⣧⠀⢸⣿⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⣿⡇⣼⡟⠀⠀⢻⣧⢸⣿⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⣿⣿⡟⠀⠀⠀⠀⢻⣿⣿⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⣿⡟⠀⠀⠀⠀⠀⠀⢻⣿⠀⠀⠀⠀⠀"
+    ]
+  },
+  {
+    "symbol": "ᛟ",
+    "name": "Othala",
+    "transliteration": "o",
+    "interpretation": "Inheritance concerns home, belonging, and what passes between generations. Examine the traditions, resources, and responsibilities you receive. Preserve what nourishes your community while reconsidering patterns that no longer serve it.",
+    "art": [
+      "⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⢠⡿⠃⠘⢿⣄⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⣰⡿⠁⠀⠀⠈⢻⣆⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠻⣧⡀⠀⠀⢀⣼⠟⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠙⣷⡄⢠⣾⠋⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⠀⠀⣴⡟⢻⣦⠀⠀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⠀⢀⣾⠏⠀⠀⠹⣷⡀⠀⠀⠀⠀⠀⠀",
+      "⠀⠀⠀⠀⠀⢠⣿⠃⠀⠀⠀⠀⠘⣿⡄⠀⠀⠀⠀⠀"
+    ]
+  }
+]

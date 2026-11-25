@@ -1,0 +1,19 @@
+[project]
+name = "gmacli"
+dynamic = ["version"]
+dependencies = [
+    "typer"
+]
+
+[project.scripts]
+gmacli = "gmacli.__main__:app"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.package-data]
+'*' = ["*.json"] 

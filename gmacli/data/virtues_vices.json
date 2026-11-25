@@ -1,0 +1,16 @@
+{
+  "virtues": [
+    "Ambition", "Benevolence", "Bravery", "Charity", "Chastity", "Compassion", "Courage", "Courtesy", "Curiosity", "Dedication",
+    "Diligence", "Discipline", "Empathy", "Endurance", "Fairness", "Faith", "Fidelity", "Forgiveness", "Fortitude", "Generosity",
+    "Gentleness", "Gratitude", "Honesty", "Honor", "Hope", "Hospitality", "Humility", "Idealism", "Integrity", "Justice",
+    "Kindness", "Loyalty", "Mercy", "Modesty", "Optimism", "Patience", "Perseverance", "Piety", "Prudence", "Resilience",
+    "Resourcefulness", "Respect", "Self-Sacrifice", "Sincerity", "Temperance", "Tolerance", "Trust", "Valor", "Vigilance", "Wisdom"
+  ],
+  "vices": [
+    "Apathy", "Arrogance", "Avarice", "Betrayal", "Bigotry", "Callousness", "Cowardice", "Cruelty", "Cynicism", "Deceit",
+    "Despair", "Dishonesty", "Disloyalty", "Envy", "Fanaticism", "Fickleness", "Gluttony", "Greed", "Gullibility", "Hatred",
+    "Hubris", "Hypocrisy", "Impatience", "Impulsiveness", "Indifference", "Ingratitude", "Intolerance", "Jealousy", "Laziness", "Lust",
+    "Malice", "Manipulation", "Obsession", "Paranoia", "Pettiness", "Pride", "Recklessness", "Resentment", "Ruthlessness", "Selfishness",
+    "Sloth", "Spite", "Stubbornness", "Superstition", "Treachery", "Vanity", "Vengefulness", "Wastefulness", "Wrath", "Zealotry"
+  ]
+}
